@@ -14,7 +14,7 @@
     "echarts": "^4.2.1",
     "lib-flexible": "^0.3.2",
     "semver": "^6.3.0",
-    "vant": "^2.1.2",
+    "vant": "^2.1.8",
     "vue": "^2.6.10",
     "vue-awesome-swiper": "^3.1.3",
     "vue-router": "^3.0.3",
